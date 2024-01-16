@@ -1,4 +1,4 @@
-# Project Name
+# Outward Outdoors Weather App
 
 Open Weather 3.0 API Call. Free Version. Tkiner Python Gui. THe start of the Outward Outdoors Weather App. 
 
